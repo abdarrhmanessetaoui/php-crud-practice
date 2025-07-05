@@ -1,17 +1,15 @@
 # PHP CRUD Practice
 
-A simple PHP project to practice Create, Read, Update, and Delete operations using MySQL.
+A basic CRUD application built with PHP and MySQL to practice backend logic and database integration.
 
 ## Features
-- List all products
-- Add a new product
-- Edit product details
-- Delete a product
 
-## Technologies Used
+- Create, read, update, and delete products
+- Connect to a MySQL database using PDO or MySQLi
+- Basic user interface using HTML and CSS
+
+## Technologies
+
 - PHP
 - MySQL
 - HTML / CSS
-
-## Status
-✅ In progress — Part of my OFPPT learning journey.
